@@ -1,0 +1,15 @@
+{
+  "name": "servo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Rowland <jason@snowcapstudios.com> (http://www.jasonrowland.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "servo-pca9685": "^0.1.3",
+    "tessel": "^0.3.21"
+  }
+}
